@@ -1,5 +1,18 @@
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=qinjunhaocn&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=qinjunhaocn" /> </div>
+# 💫 关于我:
+🔭 苦逼初中生:(<br>🤝 求大佬带带我开发安卓吧...<br>🌱 在学Dart,Kotlin,Java.
+
+
+## 🌐 联系方式:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avf_j7b6@163.com) 
+
+# 💻 常用语言:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+# 📊 GitHub 状态:
+![](https://github-readme-stats.vercel.app/api?username=qinjunhaocn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=qinjunhaocn&theme=github_dark&hide_border=true)<br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=qinjunhaocn&theme=github-compact&hide_border=true&area=true" />
-![avatar](https://github.com/qinjunhaocn/qinjunhaocn/blob/output/github-contribution-grid-snake.svg)
 <img src="https://github.com/qinjunhaocn/qinjunhaocn/blob/output/github-contribution-grid-snake-dark.svg" alt="some_text">
+### ✍️ 随机一言
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
