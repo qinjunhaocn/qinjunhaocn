@@ -2,4 +2,4 @@
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=qinjunhaocn" /> </div>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=qinjunhaocn&theme=github-compact&hide_border=true&area=true" />
 ![avatar](https://github.com/qinjunhaocn/qinjunhaocn/blob/output/github-contribution-grid-snake.svg)
-<img src="https://github.com/qinjunhaocn/qinjunhaocn/blob/output/github-contribution-grid-snake.svg" alt="some_text">
+<img src="https://github.com/qinjunhaocn/qinjunhaocn/blob/output/github-contribution-grid-snake-dark.svg" alt="some_text">
