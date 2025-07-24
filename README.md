@@ -1,11 +1,11 @@
 # 💫 关于我:
-🔭 苦逼初中生:(<br>🤝 求大佬带带我开发安卓吧...<br>🌱 在学Dart,Kotlin,Java.
+🔭 苦逼高中生:(<br>🤝 求大佬带带我开发安卓吧...<br>🌱 在学Dart,Kotlin,Java.
 
 
 ## 🌐 联系方式:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avf_j7b6@163.com) 
 
-# 💻 常用语言:
+# 💻 常用跨平台技术:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 # 📊 GitHub 状态:
 ![](https://github-readme-stats.vercel.app/api?username=qinjunhaocn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
